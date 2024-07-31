@@ -1,4 +1,4 @@
-# Manage File Permissions in Linux
+# Use Linux Commands to Manage File Permissions
 
 ## Scenario
 
